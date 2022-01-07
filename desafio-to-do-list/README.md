@@ -1,12 +1,11 @@
 # Introdução ao Javascript
 DIO - Introdução ao Javascript
+- [Minha Resolução do desafio](https://tysonos.github.io/introducao-javascript/desafio-to-do-list/index.html)
 
 ## Desafio Proposto 👇
 ## To-do list
 
 Neste projeto, iremos criar uma simples lista de tarefas.
-
-
 ### Instruções
 
 Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
@@ -19,6 +18,6 @@ O resultado esperado é parecido com este:
 
 ![Exemplo de to-do list](https://github.com/stebsnusch/basecamp-javascript/blob/main/introducao-ao-javascript/to-do%20list/assets/exemplo.png?raw=true)
 
-### Bons estudos!
+## Bons estudos!
 
 Não esqueça de publicar a sua versão do projeto no seu Github também! :smile:

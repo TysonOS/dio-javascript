@@ -1,12 +1,13 @@
 # Introdução ao Javascript
 DIO - Introdução ao Javascript
 
+[Minha Resolução do desafio](https://tysonos.github.io/introducao-javascript/contador/index.html)
 ## Desafio Proposto 👇
 
-## Contador
+### Contador
 Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
 
-### Dicas
+#### Dicas
 Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
 
 1. Tente implementar os eventos usando o método `addEventListener`. 
