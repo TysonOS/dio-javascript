@@ -4,6 +4,7 @@ DIO - Introdução ao Javascript
 ## To-do list
 
 Neste projeto, iremos criar uma simples lista de tarefas.
+
 ## Desafio Proposto 👇
 ### Instruções
 
@@ -15,7 +16,7 @@ Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
 
 O resultado esperado é parecido com este:
 
-![Exemplo de to-do list](https://github.com/stebsnusch/basecamp-javascript/blob/main/introducao-ao-javascript/to-do%20list/assets/exemplo.png)
+![Exemplo de to-do list](https://github.com/stebsnusch/basecamp-javascript/blob/main/introducao-ao-javascript/to-do%20list/assets/exemplo.png?raw=true)
 
 ## Bons estudos!
 
