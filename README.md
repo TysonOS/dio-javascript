@@ -2,13 +2,15 @@
 
 DIO - Javascript
 
-## Atividade Prática
+## Introdução ao Javascript
+
+**Atividade Prática**
 
 - [Contador](introducao-javascript/contador)
 - [To-do list](introducao-javascript/desafio-to-do-list)
 
-# Sintaxe e Operadores
+## Sintaxe e Operadores
 
-## Atividade Prática
+**Atividade Prática**
 
 - [Comparar Números](sintaxe-operadores/)

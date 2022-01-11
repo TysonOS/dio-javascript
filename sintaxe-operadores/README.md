@@ -1,5 +1,7 @@
 # Sintaxe e Operadores
 
+- [Minha Resolução do Desafio](comparaNumeros.js)
+
 ## Desafio Proposto 👇
 
 ### Atividade
