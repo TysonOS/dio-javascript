@@ -1,7 +1,7 @@
 # Introdução ao Javascript
 DIO - Introdução ao Javascript
 
-[Minha Resolução do desafio](https://tysonos.github.io/introducao-javascript/contador/index.html)
+[Minha Resolução do desafio](https://tysonos.github.io/dio-javascript/introducao-javascript/contador/index.html)
 ## Desafio Proposto 👇
 
 ### Contador
