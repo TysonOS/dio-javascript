@@ -1,17 +1,17 @@
 function compararNumeros(num1, num2){
-   const frase =  formarFrase(num1, num2);
+   const soma = (num1 + num2);
+   const frase =  formarFrase(num1, num2, soma);
    return frase;
 }
 
-function formarFrase(num1,num2){
+function formarFrase(num1,num2,soma){
     let iguais;
-    let soma = (num1 + num2);
     let maiorMenorDez = comparaDez(soma);
     let maiorMenorVinte = comparaVinte(soma);
 
-    if(num1 == num2){
+    if(num1 === num2){
         iguais = '';
-    }else if (num1 != num2){
+    }else if (num1 !== num2){
         iguais = ' não';
     }
     
@@ -40,4 +40,4 @@ function comparaVinte(num){
 
 }
 
-console.log(compararNumeros(16,6));
+console.log(compararNumeros(16,16));
