@@ -1,9 +1,8 @@
 function compararNumeros(num1, num2){
-    if((!num1 || !num2)){
-        return 'Defina dois números';
-    } else if ((typeof(num1) != "number") || (typeof(num2) != "number")){
+    if ((typeof(num1) !== "number") || (typeof(num2) !== "number")){
         return 'Defina dois números';
     }
+
    const soma = (num1 + num2);
    const frase =  formarFrase(num1, num2, soma);
    return frase;
@@ -45,4 +44,4 @@ function comparaVinte(num){
 
 }
 
-console.log(compararNumeros(22,36));
+console.log(compararNumeros(10,6));
