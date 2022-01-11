@@ -1,5 +1,13 @@
 # Introdução ao Javascript
 DIO - Introdução ao Javascript
 
-- [Contador](contador)
-- [To-do list](desafio-to-do-list)
+## Desafios
+- [Contador](introducao-javascript/contador)
+- [To-do list](introducao-javascript/desafio-to-do-list)
+
+# Sintaxe e Operadores
+
+## Desafios
+
+
+
