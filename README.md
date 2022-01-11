@@ -1,13 +1,14 @@
-# Introdução ao Javascript
-DIO - Introdução ao Javascript
+# Javascript
 
-## Desafios
+DIO - Javascript
+
+## Atividade Prática
+
 - [Contador](introducao-javascript/contador)
 - [To-do list](introducao-javascript/desafio-to-do-list)
 
 # Sintaxe e Operadores
 
-## Desafios
+## Atividade Prática
 
-
-
+- [Comparar Números](sintaxe-operadores/)
