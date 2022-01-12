@@ -18,5 +18,5 @@ DIO - Javascript
 ## Variáveis e tipos
 
 **Atividades Práticas**
-- [Verifica Palindromos]()
-- [Substitui Pares]()
+- [Verifica Palindromos](variaveis-tipos)
+- [Substitui Pares](variaveis-tipos)

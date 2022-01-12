@@ -1,6 +1,11 @@
 # Variáveis e Tipos
 
+- Minha resolução do desafio
+  - [Atividade 1](verificaPalindromos.js)
+  - [Atividade 2](substituiPares.js)
+
 ## Desafio Proposto 👇
+
 ### Atividade 1
 
 Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
