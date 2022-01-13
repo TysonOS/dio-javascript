@@ -20,3 +20,9 @@ DIO - Javascript
 **Atividades Práticas**
 - [Verifica Palindromos](variaveis-tipos)
 - [Substitui Pares](variaveis-tipos)
+
+## Funções
+
+**Atividades Práticas**
+- [Alunos Aprovados](funcoes)
+- [This](funcoes)
