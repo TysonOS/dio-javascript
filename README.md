@@ -26,3 +26,9 @@ DIO - Javascript
 **Atividades Práticas**
 - [Alunos Aprovados](funcoes)
 - [This](funcoes)
+
+## Coleções
+
+**Atividades Práticas**
+- [Map](colecoes)
+- [Set](colecoes)
