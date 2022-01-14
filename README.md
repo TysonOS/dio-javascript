@@ -32,3 +32,8 @@ DIO - Javascript
 **Atividades Práticas**
 - [Map](colecoes)
 - [Set](colecoes)
+
+## Debugging e Error Handling
+
+**Atividades Práticas**
+- [](debug-error)
