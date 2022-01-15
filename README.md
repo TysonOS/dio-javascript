@@ -36,4 +36,9 @@ DIO - Javascript
 ## Debugging e Error Handling
 
 **Atividades Práticas**
-- [](debug-error)
+- [Valida Array](debug-error)
+
+## Javascript Assíncrono
+
+**Atividades Práticas**
+- [Atividade: API "catAPI"](javascript-assincrono)
