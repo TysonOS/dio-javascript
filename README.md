@@ -42,3 +42,8 @@ DIO - Javascript
 
 **Atividades Práticas**
 - [Atividade: API "catAPI"](javascript-assincrono)
+
+## Orientação a objetos
+
+**Atividades Práticas**
+- [Conta Bancaria](orientacao-a-objetos)
