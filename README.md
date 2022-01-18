@@ -52,4 +52,4 @@ DIO - Javascript
 
 **Atividades Práticas**
 
-- []()
+- [Map, Filter e Reduce](map-filter-reduce)
