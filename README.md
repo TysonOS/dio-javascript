@@ -47,3 +47,9 @@ DIO - Javascript
 
 **Atividades Práticas**
 - [Conta Bancaria](orientacao-a-objetos)
+
+## Map, Filter e Reduce
+
+**Atividades Práticas**
+
+- []()
