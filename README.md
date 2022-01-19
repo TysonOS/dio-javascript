@@ -41,7 +41,7 @@ DIO - Javascript
 ## Javascript Assíncrono
 
 **Atividades Práticas**
-- [Atividade: API "catAPI"](javascript-assincrono)
+- [API "catAPI"](javascript-assincrono)
 
 ## Orientação a objetos
 
@@ -53,3 +53,9 @@ DIO - Javascript
 **Atividades Práticas**
 
 - [Map, Filter e Reduce](map-filter-reduce)
+
+## Manipulando a D.O.M. com JavaScript
+
+**Atividades Práticas**
+
+- [Light Mode/Dark Mode](DOM)
