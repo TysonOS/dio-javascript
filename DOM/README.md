@@ -2,7 +2,7 @@
 
 - Minha Resolução do desafio
   - [Implementação](https://tysonos.github.io/dio-javascript/DOM/index.html)
-  - [Código](assets/js/script.js)
+  - [Código](assets/js/scripts.js)
 
 ## Desafio Proposto 👇
 
